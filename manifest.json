@@ -1,8 +1,8 @@
 {
   "name": "The Convent",
-  "short_name": "Convent",
+  "short_name": "The Convent",
   "theme_color": "#a1584d",
-  "background_color": "#fce3db",
+  "background_color": "#a1584d",
   "display": "fullscreen",
   "orientation": "portrait",
   "scope": "https://the-convent.webflow.io/",
