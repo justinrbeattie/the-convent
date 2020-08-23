@@ -5,6 +5,6 @@
   "background_color": "#163c3c",
   "display": "standalone", 
   "orientation": "portrait",
-  "scope": "https://the-convent.webflow.io/",
-  "start_url": "https://the-convent.webflow.io/compendium/welcome"
+  "scope": "https://theconventhotel.co.nz/compendium",
+  "start_url": "https://theconventhotel.co.nz/compendium/welcome"
 }
